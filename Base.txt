@@ -1,10 +1,6 @@
 Por favor,
 espere mientras se examina el disco.
-aguarde a leitura do disco de jogo 
-
 introduzca el disco del juego.
-insira o disco de jogo
-
 El disco no es compatible con el sistema.
 No se ha encontrado la tarjeta de memoria.
 Seleccione una tarjeta de memoria
@@ -134,4 +130,4 @@ Algunas tarjetas de memoria no se han
 podido ajustar de acuerdo con la fecha
 y hora de la consola principal.Compruebe
 la hora en cada tarjeta de memoria.
-Prego aspettare,controllo disco.    
+Prego aspettare,controllo disco.
