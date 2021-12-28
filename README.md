@@ -26,3 +26,9 @@ dc_boot.ips
 IPS patch that can be easily applied with any IPS tool such as Lunar IPS for example.
 This way I can totally avoid any legal issues, wich I already think is not a problem but to be completly safe and clean.
 Once I finish the first version of this translation this will likely be the only file in the repo.
+
+Programs used:
+-HxD for editing all the binary files.
+-Luna IPS to create and update the IPS file.
+-Notepad++ for notes.
+-Notepad for edit space and random copy and paste stuff.
