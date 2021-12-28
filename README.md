@@ -27,7 +27,7 @@ IPS patch that can be easily applied with any IPS tool such as Lunar IPS for exa
 This way I can totally avoid any legal issues, wich I already think is not a problem but to be completly safe and clean.
 Once I finish the first version of this translation this will likely be the only file in the repo.
 
-Programs used
+Programs used:
 - 
 - HxD for editing all the binary files.
 - Luna IPS to create and update the IPS file.
