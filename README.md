@@ -19,3 +19,9 @@ The only file I can post here. Consists in a small portion of the original binar
 Contains all the text in spanish which I already started replacing with brazilian portuguese text.
 Starts about the adress 00034FC0 in the original file and ends about 00035F30.
 Be careful copying and pasting the text in the binary. If something wrong, the file goes unusable. It MUST be 1x1 to keep the checksum and integrity of the BIOS.
+
+dc_boot.ips
+|
+IPS patch that can be easily applied with any IPS tool such as Lunar IPS for example.
+This way I can totally avoid any legal issues, wich I already think is not a problem but to be completly safe and clean.
+Once I finish the first version of this translation this will likely be the only file in the repo.
