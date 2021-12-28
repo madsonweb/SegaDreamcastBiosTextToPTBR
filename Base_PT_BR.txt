@@ -1,0 +1,137 @@
+Por favor,
+espere mientras se examina el disco.
+aguarde a leitura do disco de jogo 
+
+introduzca el disco del juego.
+insira o disco de jogo
+
+El disco no es compatible con el sistema.
+No se ha encontrado la tarjeta de memoria.
+Seleccione una tarjeta de memoria
+y pulse el botón .
+Seleccione el/los archivo/s y pulse el
+  botón . (/:Selecciona 
+más de un archivo del mismo juego)
+Seleccione la tarjeta de memoria de
+destino y pulse el botón .
+Archivo copiado.
+Archivo borrado.
+Por favor usa la controller para 
+seleccionar un color de fondu y apreta
+botón .'Seleccionar' para continuar.
+Todos los archivos borrados
+y la memoria libre.
+Todos los archivos copiados.
+Por favor apreta botón 
+o botón  para
+regresar a la previous pantalla.
+seleccionar un icono, y apreta botón .
+'Seleccionar' para continuar.
+La tarjeta de memoria no puede usarse
+hasta que todos los archivos hayan
+sido borrados.
+Este archivo será eliminado.
+¿Desea proceder? 
+Por favor, no extraiga la tarjeta
+de memoria mientras se borran los
+archivos.
+Existe un archivo con el mismo nombre.
+¿Desea reemplazarlo?
+Hay juego para VMU en la tarjeta de destino.
+La tarjeta de memoria sólo puede almacenar
+un juego. No se ha podido copiar.
+La tarjeta de memoria no tiene suficiente
+memoria. No se ha podido copiar.
+La tarjeta de memoria no está preparada.
+No se ha podido copiar.
+Por favor, no extraiga la tarjeta de
+memoria mientras se copia el archivo.
+El archivo no ha podido ser copiado.
+Por favor, inténtelo de nuevo.
+El archivo no ha podido ser borrado.
+La orden no ha podido ser llevada a cabo
+porque la tarjeta de memoria ha sido
+extraída. Vuelva a introducir 
+la tarjeta e inténtelo denuevo.
+Los archivos previamente existentes con el mi-
+smo nombre serán reemplazados.¿Desea proceder?
+Todos los archivos serán borrados
+permanentemente de la tarjeta de memoria.
+¿Desea proceder?
+Ha habido un fallo a la hora de
+reinicializar la tarjeta de memoria.
+Los archivos seleccionados no han podido
+ser copiados. Por favor, inténtelo de nuevo.
+Los archivos seleccionados no han podido ser
+borrados. Por favor, inténtelo de nuevo.
+Por favor, confirme los ajustes.
+Estos archivos serán borrados al
+mismo tiempo. ¿Desea proceder?
+Los mensajes aparecerán
+en japonés.
+en inglés.
+en alemán.
+en francés.
+en español.
+en italiano.
+Ajustar Fecha/Reloj.
+Izda/Dcha mueve el cursor.
+Arriba/Abajo cambia la configuración.
+Seleccionar para sonido
+Estéreo.
+Mono.
+Una vez insertado el disco, 
+el juego se inicia automáticamente.
+Inserta el disco y pulsa el icono 'Juego'
+para iniciar el juego.
+Los relojes de la tarjeta de memoria y de
+la consola de juego serán sincronizados.
+    Juego   
+   Archivo  
+   Música   
+Configuración
+Copiar
+Borrar
+Cancelar
+Comenzar a copiar
+Ver contenido
+Copiando...
+Sí 
+Copiar todo
+Borrar todo(reinicializar la memoria)
+Borrando...
+Borrando todo...
+Transparente
+Seleccionar
+      Idioma
+ Fecha/Reloj
+      Sonido
+        Otro
+Estéreo
+Inicio automático activado
+Inicio automático desactivado
+Ajustar el reloj de la
+Tarjeta de Memoria
+bloque(s)
+El archivo no está 
+Copia fallida
+Este archivo no se puede copiar.
+(Los archivos que no se pueden
+ copiar no serán ignorados)
+Los archivos han sido copiados.
+No se han podido copiar todos los
+archivos. Inténtelo de nuevo.
+Este juego no es compatible con el cable
+que está utilizando en la consola.
+Apage la consola y cambie el cable.
+Grupo de archivos borrado.
+Ajusta todas las tarjetas de memoria
+de acuerdo con la fecha y hora de la
+consola principal.
+Ninguna tarjeta de memoria tiene reloj.
+Fecha y hora actuales de la
+Algunas tarjetas de memoria no se han
+podido ajustar de acuerdo con la fecha
+y hora de la consola principal.Compruebe
+la hora en cada tarjeta de memoria.
+Prego aspettare,controllo disco.    
