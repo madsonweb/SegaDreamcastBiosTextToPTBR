@@ -37,5 +37,5 @@ Programs used:
 - 
 - HxD for editing all the binary files.
 - Luna IPS to create and update the IPS file.
-- Notepad++ for notes.
-- Notepad for edit space and random copy and paste stuff.
+- Notepad for random notes.
+- Notepad++ for editing space, copy and paste stuff and more.
