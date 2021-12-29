@@ -33,47 +33,47 @@ de armazenamento, arquivos sendo
 apagados
 Existe um arquivo com o mesmo nome   
 Deseja substituí-lo?
-Hay juego para VMU en la tarjeta de destino
-La tarjeta de memoria sólo puede almacenar
-un juego No se ha podido copiar
-La tarjeta de memoria no tiene suficiente
-memoria No se ha podido copiar
-La tarjeta de memoria no está preparada
-No se ha podido copiar
-Por favor, no extraiga la tarjeta de
-memoria mientras se copia el archivo
-El archivo no ha podido ser copiado
-Por favor, inténtelo de nuevo
-El archivo no ha podido ser borrado
-La orden no ha podido ser llevada a cabo
-porque la tarjeta de memoria ha sido
-extraída Vuelva a introducir 
-la tarjeta e inténtelo denuevo
-Los archivos previamente existentes con el mi-
-smo nombre serán reemplazados¿Desea proceder?
-Todos los archivos serán borrados
-permanentemente de la tarjeta de memoria
-¿Desea proceder?
-Ha habido un fallo a la hora de
-reinicializar la tarjeta de memoria
-Los archivos seleccionados no han podido
-ser copiados Por favor, inténtelo de nuevo
-Los archivos seleccionados no han podido ser
-borrados Por favor, inténtelo de nuevo
-Por favor, confirme los ajustes
-Estos archivos serán borrados al
-mismo tiempo ¿Desea proceder?
-Los mensajes aparecerán
-en japonés
-en inglés
-en alemán
-en francés
-en español
-en italiano
-Ajustar Fecha/Reloj
-Izda/Dcha mueve el cursor
-Arriba/Abajo cambia la configuración
-Seleccionar para sonido
+Há jogo de VMU no armazenamento de destino 
+A unidade de armazenamento apenas armazena
+um  jogo  não  pôde ser copiado
+Unidade de armazenamento não tem bastante
+memoria Incapaz de fazer copia
+A unidade armazenamento não está pronta
+Incapaz de fazer copia
+Por favor, não remova  a  unidade de
+memória enquanto o arquivo é copiado
+Não foi  possível  copiar o arquivo
+Por favor, tente novamente   
+Não foi  possível  apagar o arquivo
+Não foi possível completar a ação devido
+devido ao armazenamento ter sido  
+removido Insira novamente o  
+armazenamento e tenta de novo 
+Os arquivos previamente existentes com o mesmo
+nome vão ser substituídos.  Deseja proseguir?
+Todos os arquivos serão apagados 
+permanentemente da unidade armazenamento
+Quer continuar? 
+Houve uma falha no momento de  
+reinicializar a inidade de memoria 
+Arquivos selecionados não tiveram como  
+ser copiados Por favor, tenta novamente   
+Arquivos selecionados não tiveram como ser  
+apagados Por favor, tenta novamente   
+Por favor, confirme os  ajustes
+Estes arquivos serão apagados ao
+mesmo tempo Desea continuar? 
+As mensagens aparecerão
+em japonês
+em inglês
+em alemão
+em francês
+em PT-BR  
+em italiano
+Ajustar Fecha/Clock
+Esq / Dir  move  o cursor
+Cima/baixo  seleciona a configuração
+Selecionar para som    
 Estéreo
 Mono
 Una vez insertado el disco, 
