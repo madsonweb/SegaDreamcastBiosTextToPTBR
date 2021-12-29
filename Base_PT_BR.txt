@@ -1,38 +1,38 @@
 Por favor,
-espere mientras se examina el disco
-introduzca el disco del juego
-El disco no es compatible con el sistema
-No se ha encontrado la tarjeta de memoria
-Seleccione una tarjeta de memoria
-y pulse el botón 
-Seleccione el/los archivo/s y pulse el
-  botón  (/:Selecciona 
-más de un archivo del mismo juego)
-Seleccione la tarjeta de memoria de
-destino y pulse el botón 
-Archivo copiado
-Archivo borrado
-Por favor usa la controller para 
-seleccionar un color de fondu y apreta
-botón 'Seleccionar' para continuar
-Todos los archivos borrados
-y la memoria libre
-Todos los archivos copiados
-Por favor apreta botón 
-o botón  para
-regresar a la previous pantalla
-seleccionar un icono, y apreta botón 
-'Seleccionar' para continuar
-La tarjeta de memoria no puede usarse
-hasta que todos los archivos hayan
-sido borrados
-Este archivo será eliminado
-¿Desea proceder? 
-Por favor, no extraiga la tarjeta
-de memoria mientras se borran los
-archivos
-Existe un archivo con el mismo nombre
-¿Desea reemplazarlo?
+espere enquanto o disco é examinado
+coloque o jogo no seu console
+O disco é incompatível com o seu console
+Nenhum armazenamento conectado ao console
+Selecione a unidade armazenamento
+e aperte o botão 
+Selecione o(s) arquivo(s) e aperte btn
+  botão  (/:Selecione  
+mais de um arquivo do mesmo jogo )
+Selecione uma unidade armazenamento
+e confirme com btn botão 
+Arquivo copiado
+Arquivo apagado
+Por favor use seu controle para  
+selecionar uma cor de fundo  e  aperte
+botão 'Selecionar' para continuar 
+Todos os arquivos apagados 
+e memória liberada
+Todos os arquivos copiados 
+Por favor aperta botão 
+o botão  para
+voltar a tela anterior         
+selecione o ícone, e pressione botão 
+'Selecionar' para continuar 
+Unidade de armazenamento indisponível
+até que todos os arquivos tenham  
+sido apagados
+Este arquivo será deletado 
+Deseja proceder? 
+Por favor, não remova a unidade  
+de armazenamento, arquivos sendo 
+apagados
+Existe um arquivo com o mesmo nome   
+Deseja substituí-lo?
 Hay juego para VMU en la tarjeta de destino
 La tarjeta de memoria sólo puede almacenar
 un juego No se ha podido copiar
