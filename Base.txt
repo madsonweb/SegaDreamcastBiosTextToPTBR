@@ -130,4 +130,3 @@ Algunas tarjetas de memoria no se han
 podido ajustar de acuerdo con la fecha
 y hora de la consola principalCompruebe
 la hora en cada tarjeta de memoria
-Prego aspettare,controllo disco

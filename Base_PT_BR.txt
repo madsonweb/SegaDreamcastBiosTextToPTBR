@@ -104,30 +104,29 @@ Selecionar
       Som   
        Outro
 Estéreo
-Inicio automático activado
-Inicio automático desactivado
-Ajustar el reloj de la
-Tarjeta de Memoria
-bloque(s)
-El archivo no está 
-Copia fallida
-Este archivo no se puede copiar
-(Los archivos que no se pueden
- copiar no serán ignorados)
-Los archivos han sido copiados
-No se han podido copiar todos los
-archivos Inténtelo de nuevo
-Este juego no es compatible con el cable
-que está utilizando en la consola
-Apage la consola y cambie el cable
-Grupo de archivos borrado
-Ajusta todas las tarjetas de memoria
-de acuerdo con la fecha y hora de la
-consola principal
-Ninguna tarjeta de memoria tiene reloj
-Fecha y hora actuales de la
-Algunas tarjetas de memoria no se han
-podido ajustar de acuerdo con la fecha
-y hora de la consola principalCompruebe
-la hora en cada tarjeta de memoria
-Prego aspettare,controllo disco
+Início automático ativado 
+Início automático desativado 
+Ajustar o relógio da  
+Unidade de memória
+bloco(s) 
+O arquivo não está 
+Erro de copia
+Impossível copiar este arquivo 
+(Os arquivos impossíveis de   
+ copiar n serão ignorados) 
+Os arquivos foram copiados    
+Não foi possível copiar todos os 
+arquivos Tente novamente   
+Este jogo não é compatível com o cabo   
+o que você está usando no console
+Desligue o console e troque o cabo
+Grupo de arquivos apagado
+Ajusta as unidades de armazenamento 
+de acordo com a data e a hora do    
+console principal
+Nenhuma unidade de memória tem relógio
+Data e hora atuais do      
+Algumas unidades de memória não foram
+ajustadas de acordo com a data        
+e hora do console principal   Verifique
+a hora de cada unidade de memória 
