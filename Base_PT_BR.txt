@@ -76,33 +76,33 @@ Cima/baixo  seleciona a configuração
 Selecionar para som    
 Estéreo
 Mono
-Una vez insertado el disco, 
-el juego se inicia automáticamente
-Inserta el disco y pulsa el icono 'Juego'
-para iniciar el juego
-Los relojes de la tarjeta de memoria y de
-la consola de juego serán sincronizados
-    Juego   
-   Archivo  
+Assim que o GD é inserido,  
+o jogo se inicia automaticamente  
+Insira o disco e selecione o ícone 'Jogo'
+para iniciar o jogo  
+Os relógios da unidade de armazenamento e
+do seu video game serão sincronizados  
+    Jogo    
+   Arquivo  
    Música   
-Configuración
+Configuração 
 Copiar
-Borrar
+Apagar
 Cancelar
-Comenzar a copiar
-Ver contenido
+Começar a copiar 
+Ver conteúdo 
 Copiando
-Sí 
-Copiar todo
-Borrar todo(reinicializar la memoria)
-Borrando
-Borrando todo
+Sim
+Copiar tudo
+Apagar tudo(reinicializar a memória) 
+Apagando
+Apagando tudo
 Transparente
-Seleccionar
+Selecionar 
       Idioma
- Fecha/Reloj
-      Sonido
-        Otro
+ Fecha/Clock
+      Som   
+       Outro
 Estéreo
 Inicio automático activado
 Inicio automático desactivado
