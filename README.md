@@ -40,6 +40,7 @@ Programs used:
 - Notepad for random notes.
 - Notepad++ for editing space, copy and paste stuff and more.
 
+
 Notes:
 -Icon and Background texts when formating a VMU are swapped in the original spanish file. It was carried to portuguese language as well. Needs to be fixed.
 -There are parts that can't be fully translated. Not by this method. It is likely that those are blob data embedded within the bios.
