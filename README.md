@@ -17,7 +17,7 @@ Files I am working on for this project:
 
 dc_boot_00034FC0_00035F30.bin
 -
-The file portion I can post here. Consists in a small portion of the original binary file.
+The file piece I can post here. Consists in a small portion of the original binary file.
 Contains all the text in spanish which I already started replacing with brazilian portuguese text.
 Starts about the adress 00034FC0 in the original file and ends about 00035F30.
 Be careful copying and pasting the text in the binary. If something's wrong, the file goes unusable. It MUST be 1x1 to keep the checksum and integrity of the BIOS.
