@@ -1,0 +1,17 @@
+Dialogue - 00032150
+
+English - 00032AD0
+Spanish.
+PT-BR.  
+
+French - 00033A10
+espagnol.
+PT-BR.   
+
+German - 00034990
+Spanisch angezeigt.
+  PT-BR angezeigt. 
+
+Italian - 00036790
+spagnolo.
+PT-BR.   

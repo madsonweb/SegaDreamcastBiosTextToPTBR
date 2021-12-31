@@ -5,15 +5,15 @@ O disco é incompatível com o seu console
 Nenhum armazenamento conectado ao console
 Selecione a unidade armazenamento
 e aperte o botão 
-Selecione o(s) arquivo(s) e aperte btn
+Selecione o(s) arquivo(s) e aperte o
   botão  (/:Selecione  
 mais de um arquivo do mesmo jogo )
 Selecione uma unidade armazenamento
-e confirme com btn botão 
+e confirme com o   botão 
 Arquivo copiado
 Arquivo apagado
 Por favor use seu controle para  
-escolha  uma  cor de fundo  e  aperte 
+escolher uma  cor de fundo  e  aperte 
 botão 'Selecionar' para continuar 
 Todos os arquivos apagados 
 e memória liberada
@@ -21,7 +21,7 @@ Todos os arquivos copiados
 Por favor aperta botão 
 o botão  para
 voltar a tela anterior         
-selecione o ícone, e pressione botão 
+escolher o ícone,  e pressione botão 
 'Selecionar' para continuar 
 Unidade de armazenamento indisponível
 até que todos os arquivos tenham  
@@ -82,8 +82,8 @@ Insira o disco e selecione o ícone 'Jogo'
 para iniciar o jogo  
 Os relógios da unidade de armazenamento e
 do seu video game serão sincronizados  
-    Jogo    
-   Arquivo  
+    Jogar   
+   Arquivos 
    Música   
 Configuração 
 Copiar
