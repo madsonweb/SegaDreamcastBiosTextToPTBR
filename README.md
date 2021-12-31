@@ -30,7 +30,7 @@ Once I finish the first version of this translation this will likely be the only
 
 References.docx
 -
-MS Word document used to check for mispelling also to keep track of the progress.
+*removed*MS Word document used to check for mispelling also to keep track of the progress.
 
 
 Programs used:

@@ -46,23 +46,23 @@ Não foi  possível  copiar o arquivo
 Por favor, tente novamente   
 Não foi  possível  apagar o arquivo
 Não foi possível completar a ação devido
-devido ao armazenamento ter sido  
-removido Insira novamente o  
+a unidade de armazenamento ter sido 
+removida Insira novamente o  
 armazenamento e tenta de novo 
 Os arquivos previamente existentes com o mesmo
-nome vão ser substituídos.  Deseja proseguir?
+nome vão ser substituídos.  Quer prosseguir? 
 Todos os arquivos serão apagados 
 permanentemente da unidade armazenamento
 Quer continuar? 
 Houve uma falha no momento de  
-reinicializar a inidade de memoria 
+reinicializar a unidade de memória 
 Arquivos selecionados não tiveram como  
-ser copiados Por favor, tenta novamente   
+ser copiados Por favor,  tenta  novamente  
 Arquivos selecionados não tiveram como ser  
-apagados Por favor, tenta novamente   
+apagados Por favor, tenta  novamente   
 Por favor, confirme os  ajustes
-Estes arquivos serão apagados ao
-mesmo tempo Desea continuar? 
+Estes arquivos serão apagados de
+vez         Desea continuar?
 As mensagens aparecerão
 em japonês
 em inglês
@@ -70,13 +70,13 @@ em alemão
 em francês
 em PT-BR  
 em italiano
-Ajustar Fecha/Clock
+Ajustar Data e hora
 Esq / Dir  move  o cursor
 Cima/baixo  seleciona a configuração
 Selecionar para som    
 Estéreo
 Mono
-Assim que o GD é inserido,  
+Assim que o GD é inserido ,  
 o jogo se inicia automaticamente  
 Insira o disco e selecione o ícone 'Jogo'
 para iniciar o jogo  
@@ -100,7 +100,7 @@ Apagando tudo
 Transparente
 Selecionar 
       Idioma
- Fecha/Clock
+ Data e hora
       Som   
        Outro
 Estéreo
@@ -118,7 +118,7 @@ Os arquivos foram copiados
 Não foi possível copiar todos os 
 arquivos Tente novamente   
 Este jogo não é compatível com o cabo   
-o que você está usando no console
+ que você está usando no console 
 Desligue o console e troque o cabo
 Grupo de arquivos apagado
 Ajusta as unidades de armazenamento 
@@ -128,5 +128,5 @@ Nenhuma unidade de memória tem relógio
 Data e hora atuais do      
 Algumas unidades de memória não foram
 ajustadas de acordo com a data        
-e hora do console principal   Verifique
+e  hora  do  console principal   Verifique
 a hora de cada unidade de memória 
