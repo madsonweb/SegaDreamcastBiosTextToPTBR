@@ -13,7 +13,7 @@ e confirme com btn botão 
 Arquivo copiado
 Arquivo apagado
 Por favor use seu controle para  
-selecionar uma cor de fundo  e  aperte
+escolha  uma  cor de fundo  e  aperte 
 botão 'Selecionar' para continuar 
 Todos os arquivos apagados 
 e memória liberada
@@ -26,7 +26,7 @@ selecione o ícone, e pressione botão 
 Unidade de armazenamento indisponível
 até que todos os arquivos tenham  
 sido apagados
-Este arquivo será deletado 
+Este arquivo será apagado  
 Deseja proceder? 
 Por favor, não remova a unidade  
 de armazenamento, arquivos sendo 
@@ -35,9 +35,9 @@ Existe um arquivo com o mesmo nome
 Deseja substituí-lo?
 Há jogo de VMU no armazenamento de destino 
 A unidade de armazenamento apenas armazena
-um  jogo  não  pôde ser copiado
+um  jogo  Não  pôde  ser copiado
 Unidade de armazenamento não tem bastante
-memoria Incapaz de fazer copia
+memória Incapaz de fazer copia
 A unidade armazenamento não está pronta
 Incapaz de fazer copia
 Por favor, não remova  a  unidade de
@@ -109,7 +109,7 @@ Início automático desativado
 Ajustar o relógio da  
 Unidade de memória
 bloco(s) 
-O arquivo não está 
+Nenhum arquivo aqui
 Erro de copia
 Impossível copiar este arquivo 
 (Os arquivos impossíveis de   
