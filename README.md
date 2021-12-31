@@ -15,7 +15,7 @@ All that said. I'm glad to do this. It's something I've been thinking for long a
 Files I am working on for this project:
 -
 
-dc_boot_00034FC0_00035F30.bin .
+dc_boot_00034FC0_00035F30.bin
 -
 The file piece I can post here. Consists in a small portion of the original binary file.
 Contains all the text in spanish which I already started replacing with brazilian portuguese text.
