@@ -39,3 +39,7 @@ Programs used:
 - Luna IPS to create and update the IPS file.
 - Notepad for random notes.
 - Notepad++ for editing space, copy and paste stuff and more.
+
+Notes:
+-
+-Icon and Background texts when formating a VMU are swapped in the original spanish file. It was carried to portuguese language as well. Needs to be fixed.
