@@ -43,5 +43,5 @@ Programs used:
 
 Notes:
 -
--Icon and Background texts when formating a VMU are swapped in the original spanish file. It was carried to portuguese language as well. It needs to be fixed.
--There are parts that can't be fully translated. Not by this method. It is likely that those are blob data embedded within the bios.
+- Icon and Background texts when formating a VMU are swapped in the original spanish file. It was carried to portuguese language as well. It needs to be fixed.
+- There are parts that can't be fully translated. Not by this method. It is likely that those are blob data embedded within the bios.
